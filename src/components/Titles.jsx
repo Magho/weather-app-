@@ -5,7 +5,8 @@ export default class Titles extends React.Component {
         return (
 
             <div>
-                Hello!
+                <h1>Weather finder</h1>
+                <p>find out temperature conditions and more... </p>
             </div>
         );
     }
